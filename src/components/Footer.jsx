@@ -19,7 +19,7 @@ const Footer = () => {
                 href="mailto:contact@aypuci.org"
                 className="hover:text-uci-gold transition-colors"
               >
-                contact@aypuci.org
+                maximitt@uci.edu
               </a>
             </p>
           </div>
